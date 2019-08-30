@@ -1,0 +1,68 @@
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\ApplicationInsights.config
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\roslyn\csc.exe
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\roslyn\System.Collections.Immutable.dll
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\roslyn\vbc.exe
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\roslyn\VBCSCompiler.exe
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\roslyn\VBCSCompiler.exe.config
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\Stock Inventory.dll.config
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\Stock Inventory.dll
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\Stock Inventory.pdb
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\Microsoft.AI.Web.dll
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\Microsoft.AI.WindowsServer.dll
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\Microsoft.ApplicationInsights.dll
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\Microsoft.AI.Web.xml
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\Microsoft.AI.WindowsServer.xml
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\Microsoft.ApplicationInsights.xml
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\obj\Debug\Stock Inventory.dll
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\obj\Debug\Stock Inventory.pdb
+c:\users\oladiti tajudeen a\documents\visual studio 2015\Projects\Stock Inventory\Stock Inventory\obj\Debug\Stock Inventory.csprojResolveAssemblyReference.cache
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\ApplicationInsights.config
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\roslyn\csc.exe
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\roslyn\vbc.exe
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\roslyn\VBCSCompiler.exe
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\Stock Inventory.dll.config
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\Stock Inventory.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\Stock Inventory.pdb
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\Microsoft.AI.Web.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\Microsoft.AI.Web.xml
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\obj\Debug\Stock Inventory.csprojResolveAssemblyReference.cache
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\obj\Debug\Stock Inventory.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\obj\Debug\Stock Inventory.pdb
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\MySql.Data.dll
+C:\Users\Oladiti Tajudeen A\Desktop\Stock Inventory\Stock Inventory\bin\MySql.Data.Entity.dll

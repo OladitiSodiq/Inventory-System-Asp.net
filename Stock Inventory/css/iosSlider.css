@@ -1,0 +1,246 @@
+
+
+.iosSlider {
+	width: 100%;
+	
+	/* this height ends up being your maximum height, 
+	 * if you want it to scale forever, set it to 
+	 * a very high number */
+	height: auto;
+
+}
+
+			.slideshow {
+				height: 450px;
+				padding: 0 0 25% 0; /* responsive slider height = 40% of the browser width; ie. slide image aspect ratio: w10xh4 */
+				position: relative;
+				overflow: visible;
+			}
+			
+			.slideshow > .container {
+				position: absolute;
+				width: 100%;
+				height: 100%;
+				overflow: hidden;
+				padding:0
+			}
+			
+			.iosSlider {
+				width: 100%;
+				height: 100%;				
+			}
+			
+			.iosSlider .slider {
+				width: 100%;
+				height: 100%;
+			}
+			
+			.iosSlider .slider .item {
+				position: relative;
+				top: 0;
+				left: 0;				
+				width: 100%;
+				height: 100%;
+				margin: 0 0 0 0;
+			}
+			
+.iosSlider .slider .iosCaption{
+	position:absolute;
+	top:67px;
+	left:0;
+	width:100%;
+	color: #1b1b1b;
+	font-size: 18px;
+	line-height: 28px;
+	
+	}
+
+.iosSlider .slider .iosCaption h2,
+.iosSlider .slider .iosCaption h3{
+color:#fff;
+font-size:55px;
+line-height:1em;
+font-weight:300;
+font-family: 'Open Sans', sans-serif;
+text-transform:none;
+margin:0;padding:0
+	}
+.iosSlider .slider .iosCaption h3{font-weight:800;padding-bottom:12px}
+.iosSlider .slider .iosCaption p{max-width:560px;padding-bottom:40px;font-family: 'Open Sans', sans-serif; font-weight:normal}
+.iosSlider .slider .iosCaption.caption2 p{margin:0 auto;max-width:800px;}
+.iosSlider .slider .iosCaption.caption2 h3{text-transform:uppercase}
+.iosSlider .slider .iosCaption.caption3 h2{color:#1b1b1b;font-weight:800;text-transform:uppercase;padding-bottom:20px}
+.iosSlider .slider .iosCaption.caption3 h2 span{color:#1F97FF;display:block}
+.iosSlider .slider .iosCaption.caption3 p{color:#555;}
+.iosSlider .slider .iosCaption.caption3 p strong{display:block;color:#1b1b1b;}
+.iosSlider .slider .iosCaption .caption3-box{max-width:500px;position:absolute;right:0;top:20px}
+
+.iosSlider .slider .iosCaption.caption3 .container{position:relative;}
+
+.iosSliderContainer{	padding-bottom:13%}
+
+.iosSlider .slider .item img {
+	width: 100%;
+	height: auto;
+	max-width:auto
+}
+
+/* controls */
+
+.container .prevContainer,
+.container .nextContainer {
+	outline: none;
+}
+.container .prevContainer,
+.container .nextContainer{
+	position: absolute;
+	top: 50%;
+	margin-top: -30px;
+	z-index: 100;
+	width: 70px;
+	height: 60px;
+}
+.container .prevContainer{left:0}
+.container .nextContainer{right:0}
+
+.container .prevContainer .prev,
+.container .nextContainer .next  {
+	width: 70px;
+	height: 60px;
+	font-size:0;
+	line-height:0;
+	position:relative
+}
+
+.container .prevContainer .prev{background: url(../img/layer-prev.png) 0 0 no-repeat;}
+
+.container .nextContainer .next {background: url(../img/layer-next.png) 0 0 no-repeat;}
+
+.container .prevContainer .prev:hover,
+.container .nextContainer .next:hover{background-position: 0 bottom;}
+
+
+.container .selectorsBlock {
+	position: absolute;
+	bottom: 8px;
+	width: 100%;
+	text-align: center !important;
+}
+
+
+.container .selectorsBlock .selectors {
+text-align:center;width:100%
+}
+
+.container .selectorsBlock .selectors .item {
+	
+	display: inline-block;
+	margin: 0 4px;
+	width: 10px;
+	height: 10px;
+	background: url(../img/pag.png) 0 0 no-repeat;	
+}
+
+.container .selectorsBlock .selectors .selected,
+.container .selectorsBlock .selectors .item:hover {
+background-position: 0 bottom;
+}
+ @media only screen and (max-width: 1200px){
+	 .container .prevContainer .prev,
+.container .nextContainer .next {background:none;
+	width: 40px;
+	 height: 40px;
+	display:block; 
+	position:relative;
+	text-align:center;
+	cursor: pointer;
+	overflow:hidden;
+	text-align:center;	
+    background: rgba( 0, 0, 0, 0.2);
+	-webkit-transition: background-color 0.3s ease;
+  -moz-transition: background-color 0.3s ease;
+  -o-transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease;
+  -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.4);
+-moz-box-shadow: inset 0 0 5px rgba(0,0,0,0.4);
+box-shadow: inset 0 0 5px rgba(0,0,0,0.4);
+
+}
+	 
+	 
+ .container .prevContainer .prev:before,
+.container .nextContainer .next:before{
+	font-family:FontAwesome;
+	font-size:16px;
+	width:40px;
+	line-height:41px;
+	position:absolute;
+	text-align:center;
+	top:0;
+	left:0;
+	color:#fff;	
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+	
+	}
+	
+.container .nextContainer .next:before{
+			content: "";		
+}
+ .container .prevContainer .prev:before{
+			content: "";		
+}
+	 
+
+.container .nextContainer .next {
+	float:right;
+	margin-right:0px;
+	-webkit-border-radius:4px 0 0 4px;
+	-moz-border-radius:4px 0 0 4px;
+	border-radius: 4px 0 0 4px;}
+.container .prevContainer .prev{
+    float:left;
+     margin-left:0px;
+    -webkit-border-radius:0 4px 4px 0;
+	-moz-border-radius:0 4px 4px 0;
+	border-radius: 0 4px 4px 0;
+}
+
+.container .nextContainer .next:hover,
+.container .prevContainer .prev:hover{background: }  	 
+	 }
+
+ @media only screen and (max-width: 1760px){
+	 .iosSlider .slider .iosCaption p{display:none} 
+	  .iosSlider .slider .iosCaption h3{padding-bottom:30px}
+	 }
+
+ @media only screen and (max-width: 1325px){
+	.iosSlider .slider .iosCaption{top:15%;}
+	.iosSlider .slider .iosCaption h2, .iosSlider .slider .iosCaption h3{font-size:40px}
+	.iosSlider .slider .iosCaption .btn-large > span{padding: 11px 29px}	
+	 }
+
+
+ @media only screen and (max-width: 1040px){
+	.iosSlider .slider .iosCaption h2, .iosSlider .slider .iosCaption h3{font-size:33px}
+	.iosSlider .slider .iosCaption .btn-large > span{padding: 8px 23px}	
+	.iosSlider .slider .iosCaption .btn-large{font-size:20px}
+	 }
+
+ @media only screen and (max-width: 900px){
+	.iosSlider .slider .iosCaption h2, .iosSlider .slider .iosCaption h3{font-size:26px}
+	.iosSlider .slider .iosCaption h3{padding-bottom:12px}	
+    .iosSlider .slider .iosCaption .btn-large {padding:0}
+	.container .selectorsBlock{display:none}
+	.iosSlider .slider .iosCaption .caption3-box{top:12%}
+	 }
+
+ @media only screen and (max-width: 535px){
+	.iosSlider .slider .iosCaption h2,
+	.iosSlider .slider .iosCaption h3{font-size:20px}
+    .iosSlider .slider .iosCaption .btn-large {padding:0;font-size:18px;display:none}
+
+	 }
